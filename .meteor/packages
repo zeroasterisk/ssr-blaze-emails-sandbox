@@ -23,3 +23,4 @@ static-html
 accounts-base
 accounts-password
 meteorhacks:ssr
+lookback:emails
